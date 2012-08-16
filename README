@@ -3,7 +3,7 @@ NAME
     HTML-Grabber
 
 VERSION
-    version 0.001
+    version 0.002
 
 SUPPORT
   Bugs / Feature Requests
@@ -15,9 +15,9 @@ SUPPORT
     This is open source software. The code repository is available for
     public review and contribution under the terms of the license.
 
-    <https://github.com/dagolden/moosex-role-html-grabber>
+    <https://github.com/trcjr/moosex-role-html-grabber>
 
-      git clone git://github.com/dagolden/moosex-role-html-grabber.git
+      git clone git://github.com/trcjr/moosex-role-html-grabber.git
 
 AUTHOR
     Theodore Robert Campbell Jr <trcjr@cpan.org>

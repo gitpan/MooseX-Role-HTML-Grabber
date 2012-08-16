@@ -12,7 +12,7 @@ use namespace::clean -except => 'meta';
 
 use HTML::Grabber;
 
-our $VERSION = '0.001'; # VERSION
+our $VERSION = '0.002'; # VERSION
 
 parameter name => (is => 'ro', isa => Str, default => 'html_grabber' );
 parameter method => (is => 'ro', isa => Str, default => 'content' );
@@ -62,7 +62,7 @@ MooseX::Role::HTML::Grabber - proved the needed bits to be a HTML-Grabber
 
 =head1 VERSION
 
-version 0.001
+version 0.002
 
 =for :stopwords cpan testmatrix url annocpan anno bugtracker rt cpants kwalitee diff irc mailto metadata placeholders metacpan
 
@@ -79,9 +79,9 @@ You will be notified automatically of any progress on your issue.
 This is open source software.  The code repository is available for
 public review and contribution under the terms of the license.
 
-L<https://github.com/dagolden/moosex-role-html-grabber>
+L<https://github.com/trcjr/moosex-role-html-grabber>
 
-  git clone git://github.com/dagolden/moosex-role-html-grabber.git
+  git clone git://github.com/trcjr/moosex-role-html-grabber.git
 
 =head1 AUTHOR
 
